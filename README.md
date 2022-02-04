@@ -26,20 +26,26 @@ All the bulkheads must come identified with a label, where the manufacturer, the
 
 
 ## Methodology 
-Para este proyecto se creo el siguiente [archivo de Excel](https://github.com/aledominique/Excel_Inventory/blob/main/Inventory%20of%20fire%20bulkheads.xlsm)
+Para este proyecto se creo el siguiente [archivo de Excel](https://github.com/aledominique/Excel_Inventory/blob/main/Inventory%20of%20fire%20bulkheads.xlsm) En el cual se presentan dos hojas, la primera donde se encuentra el inventario principal y el segundo se encuentran dropdown listas para el uso del inventario, como por ejemplo el estado de la mampara: 
+
+![grafik](https://github.com/aledominique/Excel_Inventory/blob/main/Photos/Status.JPG)
+
+En la primera hoja, se utiliza un codigo de VBA, para insertar las imagenes de cada mampara, el cual actua en la columna I y en la fila 7. 
+
+![grafik](https://github.com/aledominique/Excel_Inventory/blob/main/Photos/Code_II.JPG)
+
+Estas fotos deben encontrarse en una carpeta con el nombre "Photos" la cual se encuentra localizada en la misma carpeta que el código: 
+
+![grafik](https://github.com/aledominique/Excel_Inventory/blob/main/Photos/File.JPG)
+
+Ademas de esto, las fotos deben tener el mismo nombre que el nombre que se encuentra en la columna C (Fire bulkheads ID):
+
+
+![grafik](https://github.com/aledominique/Excel_Inventory/blob/main/Photos/ID.JPG)
+
+El segundo codigo que se encuentra en la hoja de Excel es para borrar las fotos, para que no existan repeticiones, cada vez que se desee correr el codigo de añadir fotos (porque hay nuevas mamparas que agregar al inventario) se deberian borrar primero todas la que ya se encuentran actualmente en el inventario para que de esta forma no añadir las viejas fotos otra vez y así evitar que el archivo final sea extremandamente pesado. 
+
+![grafik](https://github.com/aledominique/Excel_Inventory/blob/main/Photos/Code_I.JPG)
 
 ## Results
-* In the VAFB-SLC launch site there are no rockets launched for heavy payload mass(greater than 10000).
-* The highest success rate are for the ES-L1, GEO, HEO, SSO and VLEO orbits.
- ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/SuccessRatevsOrbitType.png)
-* We only have the orbit type PO and SSO in the launch site VAFB SLC 4E.
-![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/OrbittypevsLaunchSite.png)
 
-* We only have the orbit type LEO, ISS, GTO, VLEO and SO in the launch site KSC LC 39A.
-* The site with the highest success rate is KSC LC-39A.
-![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/TotalSuccessSites.png)
-
-* The only booster version with the Payload between 5000 and 10000 kg are the FT and the B4
-* The B4 booster version is the booster with the highest payload. 
-* The booster with the highest success rate is the Booster F9 FT (Falcon 9 Full Thrust) 
-![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/Payloadandsuccess1.PNG) ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/Payloadandsuccess2.PNG)
