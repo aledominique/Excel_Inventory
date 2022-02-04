@@ -49,4 +49,24 @@ The second code found in the Excel sheet is to delete the photos, so that there 
 ![grafik](https://github.com/aledominique/Excel_Inventory/blob/main/Photos/Code_I.JPG)
 
 ## Results
+The resulting table with the inventory is presented below: 
+![grafik](https://github.com/aledominique/Excel_Inventory/blob/main/Photos/Excel.png)
+A brief explanation of each column:
+* Column A: Here the status of the bulkhead is entered (Properly, Unproperly, Need for Intervention )
+* Column B: The condition of the bulkhead (OK, Damaged, Open)
+* Column C: The ID or name of the bulkhead (this must be unique for each one)
+* Column D: The floor where the bulkhead is located (e.g.: Ground floor, 1st floor...)
+* Column E: The room number or name of the room from which the cable or pipe runs through the bulkhead.
+* Column F: The number or name of the room to which the pipe or cable through the bulkhead leads (all bulkheads in the list must have two sides, one side for each wall). 
+* Column G: The function or use of the room in which the bulkhead is located (e.g.: Hallway, Office, Warehouse...)
+* Column H: Where in the room the bulkhead is located (near the ceiling or the floor for example)
+* Column I: The photo that is added using the mentioned code.
+* Column J: The dimensions of the bulkhead (all measurements must be in cm)
+* Column K: The measurements of the position of the bulkhead in the room (distance to the nearest wall or walls, to the ceiling and/or to the floor)
+* Column L: The use of the bulkhead (e.g.: cable or pipe)
+* Column M: The company that manufactured the bulkhead. 
+* Column N: The material it is made of (e.g.: Cement bulkhead, Foam bulkhead...)
+* Column O: Any comments or deficiencies that need to be mentioned. 
+* Column P: The date on which the information was collected.
 
+Translated with www.DeepL.com/Translator (free version)
