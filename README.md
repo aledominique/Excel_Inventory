@@ -68,5 +68,3 @@ A brief explanation of each column:
 * Column N: The material it is made of (e.g.: Cement bulkhead, Foam bulkhead...)
 * Column O: Any comments or deficiencies that need to be mentioned. 
 * Column P: The date on which the information was collected.
-
-Translated with www.DeepL.com/Translator (free version)
