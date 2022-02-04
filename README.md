@@ -68,3 +68,5 @@ A brief explanation of each column:
 * Column N: The material it is made of (e.g.: Cement bulkhead, Foam bulkhead...)
 * Column O: Any comments or deficiencies that need to be mentioned. 
 * Column P: The date on which the information was collected.
+
+## Side note: all photos and information used in this excel sheet are for illustrative purposes only, they do not represent real life data. 
