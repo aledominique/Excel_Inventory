@@ -7,6 +7,7 @@
 * [Introduction](#introduction) 
 * [Methodology](#Methodology)
 * [Results](#results)
+* [Upgrades](#upgrades)
 
 
 ## Introduction
@@ -70,3 +71,15 @@ A brief explanation of each column:
 * Column P: The date on which the information was collected.
 
 ## Side note: all photos and information used in this excel sheet are for illustrative purposes only, they do not represent real life data. 
+
+## Upgrades
+Two new columns have been added (column J and column K) the first one (column J) is to insert the photos of the bulkheads after the due repairs and in the second one (column K) the company that performed such works, for this, the following codes were added to the excel sheet:
+
+The deletion code works in the same way as in the case of column I: 
+![Code_I_ColumnJ](https://user-images.githubusercontent.com/93596082/154290045-50f21aee-b351-4526-8f11-d3cfbce99b4c.JPG)
+
+And the code to add images, too, regardless of the order in which the bulkheads are repaired.
+![Code_II_ColumnJ](https://user-images.githubusercontent.com/93596082/154291549-d8594599-2066-4835-a29c-461a1364db8b.JPG)
+
+![new columns](https://user-images.githubusercontent.com/93596082/154295399-1e6ecc76-a6e0-4f17-988c-2b7cfa2370a0.JPG)
+
