@@ -82,5 +82,26 @@ The deletion code works in the same way as in the case of column I:
 And the code to add images, too, regardless of the order in which the bulkheads are repaired (these are stored in a new folder called "new photos")
 ![Code_II_ColumnJ](https://user-images.githubusercontent.com/93596082/154291549-d8594599-2066-4835-a29c-461a1364db8b.JPG)
 
+These are the new columns: 
 ![new columns](https://user-images.githubusercontent.com/93596082/154295399-1e6ecc76-a6e0-4f17-988c-2b7cfa2370a0.JPG)
 
+
+A **new** brief explanation of each column:
+* Column A: Here the status of the bulkhead is entered (Properly, Unproperly, Need for Intervention )
+* Column B: The condition of the bulkhead (OK, Damaged, Open)
+* Column C: The ID or name of the bulkhead (this must be unique for each one)
+* Column D: The floor where the bulkhead is located (e.g.: Ground floor, 1st floor...)
+* Column E: The room number or name of the room from which the cable or pipe runs through the bulkhead.
+* Column F: The number or name of the room to which the pipe or cable through the bulkhead leads (all bulkheads in the list must have two sides, one side for each wall). 
+* Column G: The function or use of the room in which the bulkhead is located (e.g.: Hallway, Office, Warehouse...)
+* Column H: Where in the room the bulkhead is located (near the ceiling or the floor for example)
+* Column I: The photo that is added using the mentioned code.
+* **Column J: Photos after repair (also added with the code)
+* **Column K: Company that performed the repair
+* Column L: The dimensions of the bulkhead (all measurements must be in cm) 
+* Column M: The measurements of the position of the bulkhead in the room (distance to the nearest wall or walls, to the ceiling and/or to the floor)
+* Column N: The use of the bulkhead (e.g.: cable or pipe)
+* Column O: The company that manufactured the bulkhead.  
+* Column P: The material it is made of (e.g.: Cement bulkhead, Foam bulkhead...) 
+* Column Q: Any comments or deficiencies that need to be mentioned.
+* Column R:The date on which the information was collected.
