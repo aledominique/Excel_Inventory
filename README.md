@@ -96,8 +96,8 @@ A **new** brief explanation of each column:
 * Column G: The function or use of the room in which the bulkhead is located (e.g.: Hallway, Office, Warehouse...)
 * Column H: Where in the room the bulkhead is located (near the ceiling or the floor for example)
 * Column I: The photo that is added using the mentioned code.
-* **Column J: Photos after repair (also added with the code)
-* **Column K: Company that performed the repair
+* **Column J: Photos after repair (also added with the code)**
+* **Column K: Company that performed the repair**
 * Column L: The dimensions of the bulkhead (all measurements must be in cm) 
 * Column M: The measurements of the position of the bulkhead in the room (distance to the nearest wall or walls, to the ceiling and/or to the floor)
 * Column N: The use of the bulkhead (e.g.: cable or pipe)
